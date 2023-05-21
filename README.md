@@ -1,5 +1,4 @@
-# Edubridge_java_mini_project
-# ATM Machine (mini project)
+# Edubridge_java_mini_project ATM Machine (mini project)
 
 # How it's Work Overview
 
